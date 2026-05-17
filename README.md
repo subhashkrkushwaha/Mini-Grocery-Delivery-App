@@ -83,9 +83,11 @@ This was done to keep the project simple and fast to understand for review purpo
 
 ---
 
+
+
 ## Project Structure
 
-```text
+```text    
 com.example.groceryapp
 ├── activities
 │   ├── LoginActivity
@@ -111,4 +113,22 @@ com.example.groceryapp
 └── res
     ├── layout
     ├── drawable
-    └── values
+```    
+
+# App Screenshots
+
+| Login Screen | Home Screen |
+|---------------|--------------|
+| <img src="https://raw.githubusercontent.com/subhashkrkushwaha/Mini-Grocery-Delivery-App/main/Login%20screen.jpeg" width="250"/> | <img src="https://raw.githubusercontent.com/subhashkrkushwaha/Mini-Grocery-Delivery-App/main/Home%20Screen.jpeg" width="250"/> |
+
+| Add To Cart | Cart Item List |
+|--------------|----------------|
+| <img src="https://raw.githubusercontent.com/subhashkrkushwaha/Mini-Grocery-Delivery-App/main/add%20to%20card%20item.jpeg" width="250"/> | <img src="https://raw.githubusercontent.com/subhashkrkushwaha/Mini-Grocery-Delivery-App/main/card%20iten%20list.jpeg" width="250"/> |
+
+| Address Screen | Successful Order |
+|----------------|------------------|
+| <img src="https://raw.githubusercontent.com/subhashkrkushwaha/Mini-Grocery-Delivery-App/main/address.jpeg" width="250"/> | <img src="https://raw.githubusercontent.com/subhashkrkushwaha/Mini-Grocery-Delivery-App/main/successful%20order.jpeg" width="250"/> |
+
+| Dark Mode |
+|------------|
+| <img src="https://raw.githubusercontent.com/subhashkrkushwaha/Mini-Grocery-Delivery-App/main/dark%20mode.jpeg" width="250"/> |
